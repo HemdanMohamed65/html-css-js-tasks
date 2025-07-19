@@ -1,0 +1,17 @@
+input {
+  display: block;
+  margin: 5px auto;
+  padding: 6px;
+  width: 250px;
+}
+
+button {
+  padding: 7px 14px;
+  margin: 10px auto;
+  display: block;
+}
+
+#output {
+  margin-top: 10px;
+  text-align: center;
+}
